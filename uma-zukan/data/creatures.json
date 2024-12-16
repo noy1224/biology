@@ -1,0 +1,17 @@
+[
+    {
+      "id": "bigfoot",
+      "name": "ビッグフット",
+      "description": "北米の森に現れる巨大な二足歩行の生物。",
+      "category": "陸",
+      "image": "/images/bigfoot.jpg"
+    },
+    {
+      "id": "nessie",
+      "name": "ネッシー",
+      "description": "ネス湖に生息すると噂される謎の生物。",
+      "category": "水",
+      "image": "/images/nessie.jpg"
+    }
+  ]
+  
